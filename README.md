@@ -18,4 +18,4 @@ Biological Informatics Lessons
 
 ## License
 
-Copyright (c) 2012 CVDLab (http://dia.uniroma3.it/~cvdlab/)
+Copyright (c) 2012 CVD Lab ([http://dia.uniroma3.it/~cvdlab](http://dia.uniroma3.it/~cvdlab/))
