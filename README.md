@@ -13,9 +13,9 @@ Biological Informatics Lessons
 
 ### Collaborators
 
-- Enrico Marino / [@onirame](https://twitter.com/#!/onirame)
-- Federico Spini / [@federicospini](https://twitter.com/#!/federicospini)
+- [Enrico Marino](http://onirame.no.de)
+- [Federico Spini](http://spini.no.de)
 
 ## License
 
-Copyright (c) 2012 cvd-lab &lt;cvd-lab@email.com&gt;
+Copyright (c) 2012 CVDLab (http://dia.uniroma3.it/~cvdlab/)
