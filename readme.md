@@ -4,7 +4,7 @@ Biomedical Informatics Lessons
 
 ### Lessons
 
-- [Lesson 1](https://github.com/cvdlab/bio-lessons/blob/master/lessons/lesson01/readme.md) (04-02-2013)
+- [Lesson 1](lessons/lesson01/readme.md) (04-02-2013)
 
 ### Authors
 
