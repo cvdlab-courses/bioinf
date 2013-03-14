@@ -1,19 +1,9 @@
-% Introduction to Student Projects
-% Computational Visual Design ([CVD-Lab](https://github.com/cvlab)), DIA, "Roma Tre" University, Rome, Italy 
-% Biomedical Informatics -- \today 
-
-\tableofcontents
-
-\beamerdefaultoverlayspecification{<+->}
-
 
 #  Student Projects 2013
 
 ## Project goals
 
 small experiments of **geometric model extraction** from 2D and *3D medical images*
-
-\vfill\small
 
 including:
 
@@ -38,7 +28,7 @@ This standard establishes the minimum requirements for enabling portability and 
 This includes standardization of volume image rendering (texture), collaboration of fragmented images and 3D models, data storage, data compression, data transport, motion simulation, 3D platforms, and 3D model management systems.
 
 ## IEEE-SA P3333.2 Working Group
-\framesubtitle{Advanced Corporate members}
+### Advanced Corporate members
 
 - Chosun University Hospital 
 - Electronics & Telecommunications Research Institute 
@@ -51,8 +41,8 @@ This includes standardization of volume image rendering (texture), collaboration
 - Siliconfile Technologies Inc. 
 
 
-## DICOM: the current standard\footnote{From Wikipedia} 
-\framesubtitle{Digital Imaging and Communications in Medicine}
+## DICOM: the current standard (From Wikipedia)
+### Digital Imaging and Communications in Medicine
 
 +	It is a standard for handling, storing, printing, and transmitting information in medical imaging. 
 
@@ -75,7 +65,6 @@ This includes standardization of volume image rendering (texture), collaboration
 	*	for first prototyping (testing and debugging)
 	*	first and second project milestone (end of March, end of April)
 	
-\vfill
 
 + 	Javascript + several libraries + plasm.js
 
