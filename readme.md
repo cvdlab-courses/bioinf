@@ -6,6 +6,10 @@ Biomedical Informatics Lessons
 
 - [Lesson 1](lessons/lesson01/readme.md) (04-02-2013)
 
+### Projects
+
+- [projects](lessons/projects/readme.md)
+
 ### Authors
 
 - Prof. Mauro Ceccanti
