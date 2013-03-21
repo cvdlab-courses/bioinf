@@ -85,6 +85,7 @@
 * Luigi Cristiano
 * Marco Barbieri
 * Matteo Riccardi
+* Gianluca Parente
 
 ### Project content
 
