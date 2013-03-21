@@ -1,11 +1,7 @@
-# Introduction to Student Projects
-#### Computational Visual Design ([CVD-Lab](https://github.com/cvlab)), DIA, "Roma Tre" University, Rome, Italy 
-#### Biomedical Informatics -- March 21, 2013 
+# Projects
 
+## Schedule
 
-## Project development discussion
-
-* next Thursday: work program and task assignments
 *	After Easter: Task presentation and discussion
 *	April:	Task prototypes in Python
 *	May: Porting in Javascript; interface development; testing 
@@ -32,7 +28,7 @@
 
 ### Resources
 
-
+* ...
 
 ## Web-Index
 
@@ -77,6 +73,7 @@
 
 ### Resources
 
+* ...
 
 ## Web-Visual
 
