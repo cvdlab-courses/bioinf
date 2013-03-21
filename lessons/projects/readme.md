@@ -38,13 +38,12 @@
 
 ### Student group
 
-*	Barbadoro
-*	Cannaviccio
-*	Eijsermans
-*	Farruggio	
-*	Maglia
-*	Maiolo
-
+*	Andrea Barbadoro
+* Andrea Patrizia
+* Francesco Maglia
+* Ilario Maiolo
+* Matteo Cannaviccio
+* Sara Vagnarelli
 
 ### Project content
 
