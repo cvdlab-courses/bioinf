@@ -83,12 +83,12 @@
 
 ### Student group
 
-*	Barbieri
-*	Cappelli
-*	Cristiano
-*	Gatto
-*	Riccardi
-
+* Antonello Gatto
+* Eleonora Cappelli
+* Giorgio Cerrito
+* Luigi Cristiano
+* Marco Barbieri
+* Matteo Riccardi
 
 ### Project content
 
