@@ -1,20 +1,20 @@
-% Introduction to Student Projects
-% Computational Visual Design ([CVD-Lab](https://github.com/cvlab)), DIA, "Roma Tre" University, Rome, Italy 
-% Biomedical Informatics -- March 21, 2013 
+# Introduction to Student Projects
+#### Computational Visual Design ([CVD-Lab](https://github.com/cvlab)), DIA, "Roma Tre" University, Rome, Italy 
+#### Biomedical Informatics -- March 21, 2013 
 
 
-# Project development discussion
+## Project development discussion
 
-*  next Thursday: work program and task assignments
+* next Thursday: work program and task assignments
 *	After Easter: Task presentation and discussion
 *	April:	Task prototypes in Python
 *	May: Porting in Javascript; interface development; testing 
 *	Exam: Task delivery and discussion
 
 
-# Web-Dicom 
+## Web-Dicom 
 
-## Student group
+### Student group
 
 *	Cestarelli
 *	Mastromatteo
@@ -22,20 +22,20 @@
 *	Romano
 *	Sforza
 
-## Project content
+### Project content
 
 *	Analysis and description of DICOM standard
 *	Search and comparison of best available Dicom implementation in Python and Javascript
 *	Image segmentation
 *	Analysis of algorithms for block decomposition of images 
 
-## Resources
+### Resources
 
 
 
-# Web-Index
+## Web-Index
 
-## Student group
+### Student group
 
 *	Barbadoro
 *	Cannaviccio
@@ -45,7 +45,7 @@
 *	Maiolo
 
 
-## Project content
+### Project content
 
 *	Analysis of major approaches to spatial indexing of large point data-sets
 *	JSON paging of large geometric datasets using MongoDB
@@ -53,14 +53,14 @@
 *	Strassen multiplication of matrices with Z-order
 
 
-## Resources
+### Resources
 
 [MongoDB](http://www.mongodb.org/)
 [Automatically Tuned Linear Algebra Software (ATLAS)](http://math-atlas.sourceforge.net/)
 
-# Web-Lar
+## Web-Lar
 
-## Student group
+### Student group
 
 *	Cumbo
 *	Lamberti
@@ -69,18 +69,18 @@
 *	Somma
 
 
-## Project content
+### Project content
 
 *	Extension of the LAR.js and LAR-DEMO.js projects with convex cells
 *	Integration of the matrix computation web-service
 *	Integration of PDB visualization service 
 
-## Resources
+### Resources
 
 
-# Web-Visual
+## Web-Visual
 
-## Student group
+### Student group
 
 *	Barbieri
 *	Cappelli
@@ -89,17 +89,17 @@
 *	Riccardi
 
 
-## Project content
+### Project content
 
 *	Assesment of user interfaces for the other projects
 *	Delivery of UI templates (Javascript + HTML5 + CSS) for the other projects
 *	Design and development of the LAR-BIOMED app (integration layer of other projects)
 *	Functional (textual) user-interface
 
-## Resources
+### Resources
 
 
-# Assignments (next week)
+## Assignments (next week)
 
 *	Choose the group leader
 *	set-up the GitHub group project
