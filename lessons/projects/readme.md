@@ -55,8 +55,8 @@
 
 ### Resources
 
-[MongoDB](http://www.mongodb.org/)
-[Automatically Tuned Linear Algebra Software (ATLAS)](http://math-atlas.sourceforge.net/)
+* [MongoDB](http://www.mongodb.org/)
+* [Automatically Tuned Linear Algebra Software (ATLAS)](http://math-atlas.sourceforge.net/)
 
 ## Web-Lar
 
