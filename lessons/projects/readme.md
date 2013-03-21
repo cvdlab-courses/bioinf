@@ -63,12 +63,12 @@
 
 ### Student group
 
-*	Cumbo
-*	Lamberti
-*	Menichetti
-*	Rebecca
-*	Somma
-
+*	Andrea Somma
+* Elisa Lamberti
+* Fabio Cumbo
+* Fabrizio Rebecca
+* Luca Menichetti
+* Oscar Eijsermans
 
 ### Project content
 
