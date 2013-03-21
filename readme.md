@@ -14,12 +14,12 @@ Biomedical Informatics Lessons
 - [weblar](https://github.com/cvdlab-bio/weblar)
 - [webvisual](https://github.com/cvdlab-bio/webvisual)
 
-### Authors
+### Teachers
 
 - Prof. Mauro Ceccanti
 - Prof. Alberto Paoluzzi
 
-### Collaborators
+### Teaching assistants
 
 - [Enrico Marino](http://enricomarino.com)
 - [Federico Spini](http://federicospini.com)
