@@ -8,7 +8,11 @@ Biomedical Informatics Lessons
 
 ### Projects
 
-- [projects](lessons/projects/readme.md)
+- [Summary](lessons/projects/readme.md)
+- [webdicom](https://github.com/cvdlab-bio/webdicom)
+- [webindex](https://github.com/cvdlab-bio/webindex)
+- [weblar](https://github.com/cvdlab-bio/weblar)
+- [webvisual](https://github.com/cvdlab-bio/webvisual)
 
 ### Authors
 
