@@ -16,11 +16,12 @@
 
 ### Student group
 
-*	Cestarelli
-*	Mastromatteo
-*	Pace
-*	Romano
-*	Sforza
+* Andrea Farruggio
+* Fabio Mastromatteo
+* Giovanni Pace
+* Roberta Romano
+* Serena Sforza
+* Valerio Cestarelli
 
 ### Project content
 
