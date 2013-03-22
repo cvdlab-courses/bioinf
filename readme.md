@@ -4,7 +4,10 @@ Biomedical Informatics Lessons
 
 ### Lessons
 
-- [Lesson 1](lessons/lesson01/readme.md) (04-02-2013)
+- [Lesson 1](lessons/lesson01/readme.md) (04-03-2013)
+- [Lesson 3](lessons/lesson03/lesson03.pdf) (11-03-2013)
+- [Lesson 4](lessons/lesson04/lesson04.pdf) (14-03-2013)
+- [Lesson 5](lessons/lesson05/lesson05.pdf) (17-03-2013)
 
 ### Projects
 
