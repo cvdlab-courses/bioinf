@@ -33,12 +33,12 @@
 *	[Image segmentation](http://en.wikipedia.org/wiki/Image_segmentation)
 *	[Segmentation in Medical Imaging](http://math.berkeley.edu/~sethian/2006/Applications/Medical_Imaging/artery.html)
 
-#### New and important !
 
 *	[ImageJ](http://rsb.info.nih.gov/ij/)
 *	[Scripting in Other Languages](http://rsbweb.nih.gov/ij/docs/guide/146-17.html)
 *	[Fiji](http://rsbweb.nih.gov/ij/docs/guide/146-2.html#sub:Fiji-intro)
 *	[Fiji is an image processing package](http://fiji.sc/Fiji)
+*	[Block decomposition and segmentation](docs/perantonis.pdf)
 
 ## Web-Index
 
