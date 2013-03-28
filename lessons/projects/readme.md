@@ -28,7 +28,17 @@
 
 ### Resources
 
-* ...
+*	[DICOM](http://medical.nema.org/)
+*	[https://github.com/cvdlab/larpy](https://github.com/cvdlab/larpy)
+*	[Image segmentation](http://en.wikipedia.org/wiki/Image_segmentation)
+*	[Segmentation in Medical Imaging](http://math.berkeley.edu/~sethian/2006/Applications/Medical_Imaging/artery.html)
+
+#### New and important !
+
+*	[ImageJ](http://rsb.info.nih.gov/ij/)
+*	[Scripting in Other Languages](http://rsbweb.nih.gov/ij/docs/guide/146-17.html)
+*	[Fiji](http://rsbweb.nih.gov/ij/docs/guide/146-2.html#sub:Fiji-intro)
+*	[Fiji is an image processing package](http://fiji.sc/Fiji)
 
 ## Web-Index
 
@@ -53,6 +63,8 @@
 
 * [MongoDB](http://www.mongodb.org/)
 * [Automatically Tuned Linear Algebra Software (ATLAS)](http://math-atlas.sourceforge.net/)
+* [Z-order curve - Wikipedia](http://en.wikipedia.org/wiki/Z-order_curve)
+* [Zetta Token](docs/plasm.js.zip)
 
 ## Web-Lar
 
@@ -73,7 +85,10 @@
 
 ### Resources
 
-* ...
+*	[https://github.com/cvdlab/lar](https://github.com/cvdlab/lar)
+*	[https://github.com/cvdlab/lar-demo)(https://github.com/cvdlab/lar-demo)
+*	[https://github.com/cvdlab/larpy](https://github.com/cvdlab/larpy)
+*	[Algebraic extraction of topology and geometry from 3D images: proof-of-concept](http://paoluzzi.dia.uniroma3.it/web/pao/doc/paoluzzi-SK-Tel.pdf)
 
 ## Web-Visual
 
@@ -96,6 +111,9 @@
 
 ### Resources
 
+*	[https://github.com/cvdlab/lar](https://github.com/cvdlab/lar)
+*	[https://github.com/cvdlab/lar-demo)(https://github.com/cvdlab/lar-demo)
+*	[Angular.js: HTML enhanced for web apps](http://angularjs.org/)
 
 ## Assignments (next week)
 
