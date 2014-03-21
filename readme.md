@@ -11,11 +11,13 @@ Biomedical Informatics Lessons
 ### Lessons
 
 - [2014-03-04](lessons/2014-03-04)
-- **new** [2014-03-11](lessons/2014-03-11)
+- [2014-03-11](lessons/2014-03-11)
+- **new** [2014-03-19](lessons/2014-03-19)
 
 ### Teachers
 
 - Prof. Mauro Ceccanti
+- Ing. Tommaso Mazza
 - Prof. Alberto Paoluzzi
 
 ### Teaching assistants
