@@ -14,7 +14,8 @@ Biomedical Informatics Lessons
 - [2014-03-11](lessons/2014-03-11)
 - [2014-03-19](lessons/2014-03-19)
 - [2014-03-21](lessons/2014-03-21)
-- **new** [2014-03-26](lessons/2014-03-26)
+- [2014-03-26](lessons/2014-03-26)
+- **new** [2014-04-23](lessons/2014-04-23)
 
 ### Teachers
 
