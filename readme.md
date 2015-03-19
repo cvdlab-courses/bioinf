@@ -15,7 +15,7 @@
 | ~~3~~ | ~~Wed, Mar 11~~ | [~~arguments~~](raletive/path/to/lecture-03.pdf) | ~~cat1~~ |
 | ~~4~~ | ~~Fri, Mar 13~~ | [~~arguments~~](raletive/path/to/lecture-04.pdf) | ~~cat1~~ |
 | ~~5~~ | ~~Wed, Mar 18~~ | [~~arguments~~](raletive/path/to/lecture-05.pdf) | ~~cat1~~ |
-| 6 | Fri, Mar 12~~ | [~~arguments~~](raletive/path/to/lecture-06.pdf) | cat1 |
+| 6 | Fri, Mar 12 | [~~arguments~~](raletive/path/to/lecture-06.pdf) | cat1 |
 
 
 ### Teachers
