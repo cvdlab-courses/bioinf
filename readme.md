@@ -10,12 +10,12 @@
 
 | # | date | arguments | category |
 |--:|------|-----------|----------|
-| ~~1~~ | ~~Wed, Mar 4~~ | [~~arguments~~](raletive/path/to/lecture-01.pdf) | ~~paoluzzi~~ |
+| ~~1~~ | ~~Wed, Mar 4~~ | [~~Introduction, Syllabus~~](raletive/path/to/lecture-01.pdf) | ~~paoluzzi~~ |
 | ~~2~~ | ~~Fri, Mar 6~~ | [~~arguments~~](raletive/path/to/lecture-02.pdf) | ~~ceccanti~~ |
 | ~~3~~ | ~~Wed, Mar 11~~ | [~~arguments~~](raletive/path/to/lecture-03.pdf) | ~~paoluzzi~~ |
 | ~~4~~ | ~~Fri, Mar 13~~ | [~~arguments~~](raletive/path/to/lecture-04.pdf) | ~~ceccanti~~ |
 | ~~5~~ | ~~Wed, Mar 18~~ | [~~CCD, parsing of PDB files~~](2015-03-18) | ~~paoluzzi~~ |
-| 6 | Fri, Mar 12 | [~~PDB, visualization of PDB files~~](2015-03-18) | paoluzzi |
+| 6 | Fri, Mar 20 | [PDB, visualization of PDB files](2015-03-18) | paoluzzi |
 
 
 ### Teachers
