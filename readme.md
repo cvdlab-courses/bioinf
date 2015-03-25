@@ -15,7 +15,8 @@
 | ~~3~~ | ~~Wed, Mar 11~~ | [~~arguments~~](raletive/path/to/lecture-03.pdf) | ~~paoluzzi~~ |
 | ~~4~~ | ~~Fri, Mar 13~~ | [~~arguments~~](raletive/path/to/lecture-04.pdf) | ~~ceccanti~~ |
 | ~~5~~ | ~~Wed, Mar 18~~ | [~~CCD, parsing of PDB files~~](2015-03-18) | ~~paoluzzi~~ |
-| 6 | Fri, Mar 20 | [PDB, visualization of PDB files](2015-03-20) | paoluzzi |
+| ~~6~~ | ~~Fri, Mar 20~~ | [~~PDB, visualization of PDB files~~](2015-03-20) | ~~paoluzzi~~ |
+| 7 | Wed, Mar 25 | [Extraction of models from 3D images](2015-03-25) | paoluzzi |
 
 
 ### Teachers
