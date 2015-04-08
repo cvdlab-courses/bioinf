@@ -16,7 +16,8 @@
 | ~~4~~ | ~~Fri, Mar 13~~ | [~~arguments~~](raletive/path/to/lecture-04.pdf) | ~~ceccanti~~ |
 | ~~5~~ | ~~Wed, Mar 18~~ | [~~CCD, parsing of PDB files~~](2015-03-18) | ~~paoluzzi~~ |
 | ~~6~~ | ~~Fri, Mar 20~~ | [~~PDB, visualization of PDB files~~](2015-03-20) | ~~paoluzzi~~ |
-| 7 | Wed, Mar 25 | [Extraction of models from 3D images](2015-03-25) | paoluzzi |
+| ~~7~~ | ~~Wed, Mar 25~~ | [~~Extraction of models from 3D images~~](2015-03-25) | ~~paoluzzi~~ |
+| 8 | Wed, Apr 09 | [Geometric modeling of proteins](2015-04-08) | paoluzzi |
 
 
 ### Teachers
